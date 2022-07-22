@@ -7,7 +7,7 @@ This is an application for adding your daily tasks and checking the tasks you ha
 
 ## Authors
 
-- [@youssefkhalil]([https://www.linkedin.com/in/youssef-khalil-4517641a2/])
+- [@youssefkhalil](https://www.linkedin.com/in/youssef-khalil-4517641a2/)
 
 
 ## Dependencies
