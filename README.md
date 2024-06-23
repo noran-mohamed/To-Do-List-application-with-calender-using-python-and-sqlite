@@ -38,9 +38,7 @@ source venv/bin/activate
 
 Once the virtual environment is activated, install the required dependencies in the requirements.txt file:
 ```bash
-  pip install PyQt5
-  pip install sys
-  pip install sqlite3
+pip install -r requirements.txt
 ```
     
 ### 4. Running the Application
